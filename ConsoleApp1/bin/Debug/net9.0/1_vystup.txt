@@ -1,0 +1,8 @@
+Počet slov: 2
+Počet znaků (bez mezer): 11
+Počet znaků (s mezerami): 14
+
+hello: 1
+there!: 1
+
+hello there!

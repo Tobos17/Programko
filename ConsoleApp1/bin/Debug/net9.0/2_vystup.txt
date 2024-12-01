@@ -1,0 +1,17 @@
+Počet slov: 9
+Počet znaků (bez bílých znaků): 50
+Počet znaků (s bílými znaky): 86
+
+hello: 5
+there!: 1
+G3n3r41: 1
+K3nöbi: 2
+
+hello there! G3n3r41 
+
+K3nöbi 
+
+hello K3nöbi
+hello
+hello
+hello

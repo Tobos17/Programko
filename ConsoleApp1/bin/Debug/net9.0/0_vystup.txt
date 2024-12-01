@@ -1,0 +1,7 @@
+Počet slov: 1
+Počet znaků (bez mezer): 4
+Počet znaků (s mezerami): 4
+
+azAZ: 1
+
+azAZ
